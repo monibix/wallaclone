@@ -1,0 +1,15 @@
+.sidebar {
+    background-color: #253238;
+    min-height: 89.25vh;
+    width: 8vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.sidebar p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+}
